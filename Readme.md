@@ -1,9 +1,24 @@
-Here's the README content — copy-paste into `README.md`:
 
-```markdown
 # Lumos Email Automation
 
 Automated cold email outreach for Lumos Learning, using Selenium to send personalized HTML emails through SiteGround's Roundcube webmail interface.
+
+---
+
+## About Me
+
+**Name:**  Sathwik N H 
+
+**Role:**  BDA( as of now -- Referrals are most welcome) 
+
+**Company:** Lumos Learning
+
+**Linked in :** https://www.linkedin.com/in/sathwiknh1/ 
+
+Contact:sathwiknh@gmail.com 
+
+
+---
 
 ## Features
 
@@ -90,5 +105,13 @@ A Chrome window opens. **Log in manually** to the webmail, wait for the inbox to
 - pandas
 - webdriver-manager
 - SiteGround Webmail (Roundcube)
-```
 
+---
+
+## License
+
+MIT — see [LICENSE](LICENSE)
+
+---
+
+*Built by --- Sathwik  --- | --- MONTH YEAR (e.g., July 2026) -

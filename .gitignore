@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Webdriver cache
+.wdm/
+chromedriver*
+
+# IDE
+.idea/
+.vscode/
+
+# Webmail snapshots (contains login/session data)
+compose.html
+mailbox.html
+roundcube.html
+compose.png
+mailbox.png
+
+# CSV with contact data
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
